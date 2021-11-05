@@ -1,5 +1,9 @@
 {
 
-  "name": "hasan"
+  "title": "",
+
+  "text": "",
+
+  "on_off": true
 
 }
