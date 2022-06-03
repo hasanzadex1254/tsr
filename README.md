@@ -1,6 +1,6 @@
 [
   {
-    "hasab": "zade.py",
+    "hasan": "zade.py",
     "hasan": "for.del"
   }
 ]
