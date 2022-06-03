@@ -1,9 +1,6 @@
-{
-
-  "title": "",
-
-  "text": "",
-
-  "on_off": true
-
-}
+[
+  {
+    "hasab": "zade.py",
+    "hasan": "for.del"
+  }
+]
